@@ -2,25 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: UBC Manufacturing Engineering '22
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # address: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my personal website, a space where I share the results of my creative explorations. Here, I've gathered a collection of **personal projects** that hold special meaning to me. This space serves as a _portfolio_, chronicling my journey through various tech- and engineering-driven endeavors.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Here, you'll encounter a range of projects that I've dedicated time and effort to. From coding experiments that challenge my technical skills to design pieces that convey unique stories, this portfolio encapsulates my commitment to both learning and self-expression.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Here, I present an array of projects that I've dedicated time and effort to. From coding experiments to data-driven solutions that tackle real-world challenges, this portfolio encapsulates my dedication to learning and innovation in the realms of coding and engineering.
+
+Each project narrates a story, showcasing not only my technical abilities but also my passion for the process of creation. Whether it's a meticulously coded applet, an algorithmic solution, or an in-depth data analysis, every creation offers a window into a specific moment of my personal journey.
+
+Beyond the final outcomes, I'll also provide insights into the inspiration, hurdles, and triumphs that accompanied each project. This portfolio isn't just a display; it's an invitation to witness my growth and engineering mindset.
+
+Thank you for visiting and taking the time to explore my projects. I hope they inspire you and provide a glimpse into my world. 

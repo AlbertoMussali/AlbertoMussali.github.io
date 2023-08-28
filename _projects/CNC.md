@@ -4,7 +4,7 @@ title: 5-Axis CNC Program Design
 description: Design and Simulation of 5-Axis Machining Process for Complex Part
 img: /assets/img/Proj_CNC/bg.jpg
 importance: 1
-category: Tech
+category: Eng
 related_publications:
 bibliography: Proj_EEG.bib
 noDistHeader: true

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: ME
 permalink: /
 subtitle: UBC Manufacturing Engineering '22
 

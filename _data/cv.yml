@@ -2,13 +2,13 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Albert Einstein 1212
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
       value: English, German
 
-- title: Education
+- title: Education111
   type: time_table
   contents:
     - title: PhD

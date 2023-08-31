@@ -2,7 +2,7 @@
 layout: page
 title: PROJECTS
 permalink: /projects/
-description: A growing collection of my projects.
+description: A growing collection of my projects, categorized into Tech and Eng.
 nav: true
 nav_order: 2
 display_categories: [Tech, Eng]

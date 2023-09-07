@@ -27,4 +27,4 @@ Each project narrates a story, showcasing not only my technical abilities but al
 
 Beyond the final outcomes, I'll also provide insights into the inspiration, hurdles, and triumphs that accompanied each project. This portfolio isn't just a display; it's an invitation to witness my growth and engineering mindset.
 
-Thank you for visiting and taking the time to explore my projects. I hope they inspire you and provide a glimpse into my world. 
+Thank you for visiting and taking the time to explore my [projects](/projects), [CV](/cv), or a recent interview with UBC's Applied Science: [Innovating Solutions: Learning From Research, Trial And Error](https://engineering.ubc.ca/spotlight/student/innovating-solutions-learning-research-trial-and-error). I hope they inspire you and provide a glimpse into my world. 
